@@ -1,2 +1,2 @@
 # Micro-bit-projects
-Implementing some projects in Micro:bit
+displaying distance in LCD display with Micro:bit
