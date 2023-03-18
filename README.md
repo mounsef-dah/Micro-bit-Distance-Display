@@ -1,4 +1,5 @@
-# Micro-bit-projects
+# Micro:bit Distance Display
+
 This project demonstrates how to measure distance using the GP2Y0A21YK0F sensor and display it on a serial LCD display connected to a Micro:bit microcontroller. The GP2Y0A21YK0F is a compact infrared distance sensor that can detect objects from 10 cm to 80 cm away.
 
 ## Features
